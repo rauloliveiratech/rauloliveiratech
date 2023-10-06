@@ -33,4 +33,4 @@
 
 [![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=rauloliveiratech&show_icons=true&theme=transparent)](https://github.com/rauloliveiratech)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliveiratech&show_icons=true&theme=transparent&layout=compact)](https://github.com/rauloliveiratech)
-![snake gif](https://github.com/rauloliveiratech/rauloliveiratech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rauloliveiratech/rauloliveiratech/blob/output/github-contribution-grid-snake.svg)
