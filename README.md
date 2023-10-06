@@ -34,13 +34,12 @@
 [![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=rauloliveiratech&show_icons=true&theme=transparent)](https://github.com/rauloliveiratech)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliveiratech&show_icons=true&theme=transparent&layout=compact)](https://github.com/rauloliveiratech)
 
- 
- <!-- [![Snake animation](https://github.com/rauloliveiratech/rauloliveiratech/blob/output/github-contribution-grid-snake.svg) -->
-<p></p>
-<!-- ###
-# <div align="center">
-#   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts">
-# </div>
+[![Snake animation](https://github.com/rauloliveiratech/rauloliveiratech/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts">
+</div>
 
 ### -->
 <br clear="both">
