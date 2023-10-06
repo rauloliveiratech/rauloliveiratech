@@ -29,15 +29,14 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35">
   </a>
 </div>
+## Estatísticas
 
-<p align="center">
- <a href="https://github.com/rauloliveiratech">
-    <img src="https://github-readme-stats.vercel.app/api?username=rauloliveiratech&show_icons=true&theme=tokyonight" height="180em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliveiratech&layout=compact&theme=tokyonight" height="180em">
- </a>
+[![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=rauloliveiratech&show_icons=true&theme=transparent)](https://github.com/rauloliveiratech)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliveiratech&show_icons=true&theme=transparent&layout=compact)](https://github.com/rauloliveiratech)
+
  
- <!-- ![Snake animation](https://github.com/rauloliveiratech/rauloliveiratech/blob/output/github-contribution-grid-snake.svg) -->
-</p>
+ [![Snake animation](https://github.com/rauloliveiratech/rauloliveiratech/blob/output/github-contribution-grid-snake.svg)
+<p></p>
 
 <!-- ###
 # <div align="center">
