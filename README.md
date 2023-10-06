@@ -19,10 +19,16 @@
 ###
 
 <div align="left">
-  <a src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" href="https://www.instagram.com/raul.oliveirazx/" alt="instagram logo" height="35">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" height="35">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" height="35">
-</a></div>
+  <a href="https://www.instagram.com/raul.oliveirazx/" alt="instagram logo">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35">
+  </a>
+  <a href="mailto:rauloliveiratech@gmail.com" alt="gmail logo">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35">
+  </a>
+  <a href="https://www.linkedin.com/rauloliveiratech/" alt="linkedin logo">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35">
+  </a>
+</div>
 
 <!-- ###
 # <div align="center">
