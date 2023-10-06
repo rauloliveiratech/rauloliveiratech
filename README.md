@@ -30,6 +30,15 @@
   </a>
 </div>
 
+<p align="center">
+ <a href="https://github.com/rauloliveiratech">
+    <img src="https://github-readme-stats.vercel.app/api?username=rauloliveiratech&show_icons=true&theme=tokyonight" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliveiratech&layout=compact&theme=tokyonight" height="180em">
+ </a>
+ 
+ <!-- ![Snake animation](https://github.com/rauloliveiratech/rauloliveiratech/blob/output/github-contribution-grid-snake.svg) -->
+</p>
+
 <!-- ###
 # <div align="center">
 #   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts">
