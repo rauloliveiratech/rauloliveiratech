@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" align="center" width="1000">
+
 <h2 align="left">Prazer ! Meu nome é Raul 👋</h2>
 
 ###
@@ -42,5 +44,5 @@ Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha
 </picture>
 
 ###
-
+<img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" align="center" width="1000">
 
