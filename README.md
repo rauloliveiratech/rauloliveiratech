@@ -34,6 +34,8 @@ Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" height="30">
   <h3>Estudando ✏️</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" height="30">
+          
 </div>
 
 ##
