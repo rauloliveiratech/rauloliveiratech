@@ -10,8 +10,6 @@
 
 ###
 
-<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" align="right" height="150">
-
 <h2>Sobre Mim 👨‍💻</h2>
 
 Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha" em minhas atitudes. Adoro estar no mesmo ambiente de trabalho com pessoas curiosas, antenadas e abertas a novas ideias. Procurando me aprimorar como pessoa e DEV. Mais informações no meu Linkedin.
@@ -25,6 +23,8 @@ Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha
 
 
 ###
+
+<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" align="right" height="150">
 
 <div>
 <h3>Tecnologias e ferramentas 🤖</h3>
