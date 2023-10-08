@@ -1,6 +1,10 @@
 <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" align="center" width="1000">
 
-<h2 align="left">Prazer ! Meu nome é Raul 👋</h2>
+<h2 align="left">Prazer ! Meu nome é Raul 👋☕</h2>
+
+![Static Badge](https://img.shields.io/badge/GitHub-%23333)
+![Static Badge](https://img.shields.io/badge/System%20Analisys-%230c7dbe)
+![Static Badge](https://img.shields.io/badge/Em%20Andamento-DevOps-%236e5494)
 
 ###
 
@@ -19,30 +23,35 @@ Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha
 
 ###
 
+<div>
 <h3>Tecnologias e ferramentas 🤖</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql logo" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" height="30">
+  <h3>Estudando ✏️</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="30">
+</div>
 
+##
 
-###
-
-<h2>Estatísticas 👾</h2>
-
-[![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=rauloliveiratech&show_icons=true&theme=transparent)](https://github.com/rauloliveiratech)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliveiratech&show_icons=true&theme=transparent&layout=compact)](https://github.com/rauloliveiratech)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rauloliveiratech/rauloliveiratech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rauloliveiratech/rauloliveiratech/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rauloliveiratech/rauloliveiratech/output/github-contribution-grid-snake.svg">
-</picture>
+<div>
+  <h2>Estatísticas 👾</h2>
+  
+  [![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=rauloliveiratech&show_icons=true&theme=transparent)](https://github.com/rauloliveiratech)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliveiratech&show_icons=true&theme=transparent&layout=compact)](https://github.com/rauloliveiratech)
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rauloliveiratech/rauloliveiratech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rauloliveiratech/rauloliveiratech/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rauloliveiratech/rauloliveiratech/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ###
 <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" align="center" width="1000">
+
 
