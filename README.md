@@ -1,6 +1,8 @@
-<img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" align="center" width="1000">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4328fb&height=120&section=header"/>
 
-<h2 align="left">Prazer ! Meu nome é Raul 👋☕</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=442ef4&size=50&center=true&vCenter=true&width=1000&lines=Prazer,+meu+nome+é+Raul;Tenho+20+anos;Atualmente+estudo+ADS;Freelancer)](https://git.io/typing-svg)
+
+#
 
 ![Static Badge](https://img.shields.io/badge/GitHub-%23333)
 ![Static Badge](https://img.shields.io/badge/System%20Analisys-%230c7dbe)
@@ -54,6 +56,5 @@ Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha
 </div>
 
 ###
-<img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" align="center" width="1000">
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4328fb&height=120&section=footer"/>
