@@ -10,7 +10,7 @@
 
 <h2>Sobre Mim 👨‍💻</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a7ff&size=20&center=true&vCenter=true&width=1000&lines=Tenho+20+anos;Estudando+ADS,+Figma+e+JS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a7ff&size=35&center=true&vCenter=true&width=1000&lines=Tenho+20+anos;Estudando+ADS,+Figma+e+JS)](https://git.io/typing-svg)
 
 Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha" em minhas atitudes. Adoro estar no mesmo ambiente de trabalho com pessoas curiosas, antenadas e abertas a novas ideias. Procurando me aprimorar como pessoa e DEV. Mais informações no meu Linkedin.
 
