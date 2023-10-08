@@ -16,6 +16,7 @@
 
 Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha" em minhas atitudes. Adoro estar no mesmo ambiente de trabalho com pessoas curiosas, antenadas e abertas a novas ideias. Procurando me aprimorar como pessoa e DEV. Mais informações no meu Linkedin.
 
+
 <div align="left">
   <a href="https://www.linkedin.com/in/rauloliveiratech/" id=#linkedin alt="linkedin logo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35">
@@ -56,5 +57,7 @@ Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha
 </div>
 
 ###
+
+<blockquote>" A expectativa é o maior impedimento para viver (...)"</blockquote>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4328fb&height=120&section=footer"/>
