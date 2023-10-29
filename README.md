@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a7ff&size=35&center=true&vCenter=true&width=1000&lines=Tenho+20+anos;Estudando+ADS,+Figma+e+JS)](https://git.io/typing-svg)
 
-Tenho uma abordagem centrada em soluções e priorizo uma relação "ganha-ganha" em minhas atitudes. Adoro estar no mesmo ambiente de trabalho com pessoas curiosas, antenadas e abertas a novas ideias. Procurando me aprimorar como pessoa e DEV. Mais informações no meu Linkedin.
+Sou um Front End Developer com um forte conjunto de habilidades em tecnologias web, incluindo HTML, CSS e JavaScript. Além disso, possuo experiência em SQL e Python. Tenho uma paixão por criar interfaces de usuário atraentes e funcionais, e estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento front-end. Mais informações no meu Linkedin 😊
 
 
 <div align="left">
