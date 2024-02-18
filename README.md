@@ -1,4 +1,14 @@
-![Header](./github-header.png)
+```js
+// Apresentação
+const user = {
+  nome = "Raul";
+  sobrenome = "Oliveira Mercadante";
+  idade = 21;
+  email = "rauloliveiratech@gmail.com";
+  endereco = "São Paulo";
+  comidaFav = "Strogonoff";
+}
+```
 
 #
 
