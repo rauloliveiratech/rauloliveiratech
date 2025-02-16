@@ -20,7 +20,7 @@ const user = {
 
 <h2>Sobre Mim 👨‍💻</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a7ff&size=35&center=true&vCenter=true&width=1000&lines=Tenho+21+anos;Estudando+ADS,+Figma+e+JS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a7ff&size=35&center=true&vCenter=true&width=1000&lines=Tenho+22+anos;Estudando+ADS,+Figma+e+JS)](https://git.io/typing-svg)
 
 Sou um Desenvolvedor Full Stack com um forte conjunto de habilidades em tecnologias web, incluindo React, Sass, HTML, CSS e JavaScript. Além disso, possuo experiência em SQL e Python. Tenho uma paixão por criar interfaces, e estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento front-end. Mais informações no meu Linkedin 😊
 
