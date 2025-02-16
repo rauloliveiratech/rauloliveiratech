@@ -3,7 +3,7 @@
 const user = {
   nome = "Raul";
   sobrenome = "Oliveira Mercadante";
-  idade = 21;
+  idade = 22;
   email = "rauloliveiratech@gmail.com";
   endereco = "São Paulo";
   comidaFav = "Strogonoff";
